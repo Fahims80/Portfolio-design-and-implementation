@@ -1,0 +1,1126 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+#web1-home {
+	position:absolute;
+	width:100%;
+	height: 100%;
+	font-family: arial;
+	background-color: rgba(23,29,36,1);
+	overflow:hidden;
+	
+}
+
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#backgroundimg {
+	opacity: 0.7;
+	
+	filter: blur(6px);
+	position:absolute;
+	width: auto;
+	height: auto;
+	left: 0px;
+	top: -142px;
+	overflow:hidden;
+}
+#Fahim_Shahriar_db {
+	opacity: 0.9;
+	left: 140px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe Print, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 63px;
+	color: rgba(21,130,136,1);
+    padding: auto;
+}
+
+#g_line_dc {
+	opacity: 0.42;
+	fill: transparent;
+	stroke: rgba(22,174,180,1);
+	stroke-width: 8px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.g_line_dc {
+	overflow: visible;
+	position: absolute;
+	width: 8px;
+	height: 139px;
+	left: 140px;
+	top: 264px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#v_line_dd {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(139,142,146,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.v_line_dd {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 136px;
+	left: 140px;
+	top: 535px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#d_line_de {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(139,142,146,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.d_line_de {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 136px;
+	left: 140px;
+	top: 806px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Graphic_Designer_Working_field_df {
+	opacity: 0.85;
+	left: 163px;
+	top: 262px;
+	position: absolute;
+	overflow: visible;
+	width: 796px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(228,228,228,1);
+}
+#Video_Editor_As_I_love_to_trav_dg {
+	opacity: 0.45;
+	left: 163px;
+	top: 538px;
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	white-space: nowrap;
+	transition: all 0.5s ease-in-out;
+	--web-animation: fadein 0.5s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: web1_video_editor.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(228,228,228,1);
+}
+#Developer_Graduated_from_BAUST_dh {
+	opacity: 0.45;
+	left: 163px;
+	top: 809px;
+	position: absolute;
+	overflow: visible;
+	width: 1053px;
+	white-space: nowrap;
+	transition: all 0.5s ease-in-out;
+	--web-animation: fadein 0.5s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: portfolio.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(228,228,228,1);
+}
+#facebook_di {
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 163px;
+	top: 370px;
+	overflow: visible;
+}
+#Path_2_dj {
+	fill: rgba(66,103,178,1);
+}
+.Path_2_dj {
+	overflow: visible;
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-f_dk {
+	fill: rgba(219,221,225,1);
+}
+.Icon_awesome-facebook-f_dk {
+	overflow: visible;
+	position: absolute;
+	width: 12.249px;
+	height: 22.871px;
+	left: 62px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#youtube_dl {
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 163px;
+	top: 644px;
+	overflow: visible;
+}
+#Path_3_dm {
+	opacity: 0.3;
+	fill: rgba(255,0,0,1);
+}
+.Path_3_dm {
+	overflow: visible;
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_1_dn {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1_dn {
+	overflow: visible;
+	position: absolute;
+	width: 31px;
+	height: 21px;
+	transform: translate(-163px, -634px) matrix(1,0,0,1,216,645) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#whats_app_do {
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 163px;
+	top: 913px;
+	overflow: visible;
+}
+#Path_4_dp {
+	opacity: 0.3;
+	fill: rgba(37,211,102,1);
+}
+.Path_4_dp {
+	overflow: visible;
+	position: absolute;
+	width: 136px;
+	height: 43.397px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#whatsapp_PNG95177_dq {
+	opacity: 0.3;
+	position: absolute;
+	width: 37px;
+	height: 37px;
+	left: 50px;
+	top: 3px;
+	overflow: visible;
+}
+#graphic_dr {
+	position: absolute;
+	width: 772.161px;
+	height: 772.161px;
+	left: 1112.92px;
+	top: 68.92px;
+	overflow: visible;
+}
+#Ellipse_1_ds {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 10;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_ds {
+	width: 546px;
+	height: 546px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1112.92px, -68.92px) matrix(1,0,0,1,1226,182) rotate(-45deg);
+	transform-origin: center;
+}
+#Ellipse_2_dt {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(23,129,138,1);
+	stroke-width: 23px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3 2;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_dt {
+	width: 496px;
+	height: 496px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1112.92px, -68.92px) matrix(1,0,0,1,1251,207) rotate(45deg);
+	transform-origin: center;
+}
+#Ellipse_3_du {
+	fill: transparent;
+	stroke: rgba(22,79,87,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_du {
+	position: absolute;
+	overflow: visible;
+	width: 418px;
+	height: 418px;
+	left: 177.08px;
+	top: 177.08px;
+}
+#Ellipse_5_dv {
+	fill: transparent;
+	stroke: rgba(22,79,87,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_dv {
+	position: absolute;
+	overflow: visible;
+	width: 418px;
+	height: 418px;
+	left: 177.08px;
+	top: 177.08px;
+}
+#Ellipse_4_dw {
+	opacity: 0.2;
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_dw {
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	height: 387px;
+	left: 195.08px;
+	top: 195.08px;
+}
+#picforfbbig {
+	position: absolute;
+	width: 325px;
+	height: 322px;
+	left: 224.08px;
+	top: 225.08px;
+	overflow: visible;
+}
+#Ellipse_6_dy {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_dy {
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 234.08px;
+	top: 55.08px;
+}
+#Ellipse_7_dz {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_dz {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 110px;
+	left: 195.08px;
+	top: 540.08px;
+}
+#Ellipse_8_d {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_8_d {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 110px;
+	left: 485.08px;
+	top: 540.08px;
+}
+#pivforyoutube {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 214.08px;
+	top: 559.08px;
+	overflow: visible;
+}
+#picforfb {
+	position: absolute;
+	width: 136px;
+	height: 136px;
+	left: 251.08px;
+	top: 72.08px;
+	overflow: visible;
+}
+#NoPath_d {
+	opacity: 0.97;
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 505.08px;
+	top: 560.08px;
+	overflow: visible;
+}
+#graphic_d {
+	transform: matrix(1,0,0,1,1545.9197,-374.0803) rotate(-45deg);
+	transform-origin: center;
+	position: absolute;
+	width: 772.161px;
+	height: 772.161px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+#Ellipse_1_d {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 10;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_d {
+	width: 546px;
+	height: 546px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-835.687px, 1284.219px) matrix(1,0,0,1,1226,182) rotate(-45deg);
+	transform-origin: center;
+}
+#Ellipse_2_d {
+	opacity: 0.5;
+	fill: transparent;
+	stroke: rgba(23,129,138,1);
+	stroke-width: 23px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3 2;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_d {
+	width: 496px;
+	height: 496px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-835.687px, 1284.219px) matrix(1,0,0,1,1251,207) rotate(45deg);
+	transform-origin: center;
+}
+#Ellipse_3_d {
+	fill: transparent;
+	stroke: rgba(22,79,87,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_d {
+	position: absolute;
+	overflow: visible;
+	width: 591.141px;
+	height: 591.141px;
+	left: 250.429px;
+	top: 250.429px;
+}
+#Ellipse_5_d {
+	fill: transparent;
+	stroke: rgba(22,79,87,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_d {
+	position: absolute;
+	overflow: visible;
+	width: 591.141px;
+	height: 591.141px;
+	left: 250.429px;
+	top: 250.429px;
+}
+#Ellipse_4_d {
+	opacity: 0.2;
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_d {
+	position: absolute;
+	overflow: visible;
+	width: 547.301px;
+	height: 547.301px;
+	left: 275.885px;
+	top: 275.178px;
+}
+#ID60334944_2366594050070693_72_ea {
+	position: absolute;
+	width: 457.498px;
+	height: 457.498px;
+	left: 317.604px;
+	top: 316.897px;
+	overflow: visible;
+}
+#Ellipse_6_eb {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_eb {
+	position: absolute;
+	overflow: visible;
+	width: 240.416px;
+	height: 240.416px;
+	left: 204.467px;
+	top: 299.22px;
+}
+#Ellipse_7_ec {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_ec {
+	position: absolute;
+	overflow: visible;
+	width: 155.563px;
+	height: 155.563px;
+	left: 519.837px;
+	top: 712.17px;
+}
+#Ellipse_8_ed {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,1,1,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_8_ed {
+	position: absolute;
+	overflow: visible;
+	width: 155.563px;
+	height: 155.564px;
+	left: 724.898px;
+	top: 507.109px;
+}
+#LRM_EXPORT_161850676171308_201_ee {
+	position: absolute;
+	width: 101.823px;
+	height: 101.823px;
+	left: 546.707px;
+	top: 739.04px;
+	overflow: visible;
+}
+#ID60334944_2366594050070693_72_ef {
+	position: absolute;
+	width: 192.333px;
+	height: 192.333px;
+	left: 228.509px;
+	top: 323.261px;
+	overflow: visible;
+}
+#NoPath_eg {
+	opacity: 0.97;
+	position: absolute;
+	width: 200.995px;
+	height: 200.995px;
+	left: 753.182px;
+	top: 535.393px;
+	overflow: visible;
+}
+@media only screen and (min-width:1000px)
+{
+   	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#web-home {
+		position: absolute;
+		width: 1366px;
+		height: 768px;
+		background-color: rgba(23,29,36,1);
+		overflow: hidden;
+		--web-view-name: web2-home;
+		--web-view-id: web2-home;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Group_6 {
+		position: absolute;
+		width: 1366px;
+		height: 1025px;
+		left: 0px;
+		top: -110px;
+		overflow: visible;
+	}
+	#ID122973109_3599421930121226_4 {
+		opacity: 0.2;
+		mix-blend-mode: luminosity;
+		filter: blur(6px);
+		position: absolute;
+		width: 1366px;
+		height: 1025px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Fahim_Shahriar {
+		opacity: 0.9;
+		left: 104px;
+		top: 116px;
+		position: absolute;
+		overflow: visible;
+		width: 365px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe Print;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 46px;
+		color: rgba(21,130,136,1);
+	}
+	#g_line {
+		opacity: 0.42;
+		fill: transparent;
+		stroke: rgba(22,174,180,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.g_line {
+		overflow: visible;
+		position: absolute;
+		width: 8px;
+		height: 105px;
+		left: 104px;
+		top: 293px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#v_line {
+		opacity: 0.5;
+		fill: transparent;
+		stroke: rgba(139,142,146,1);
+		stroke-width: 5px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.v_line {
+		overflow: visible;
+		position: absolute;
+		width: 5px;
+		height: 103px;
+		left: 104px;
+		top: 488px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#d_line {
+		opacity: 0.5;
+		fill: transparent;
+		stroke: rgba(139,142,146,1);
+		stroke-width: 5px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.d_line {
+		overflow: visible;
+		position: absolute;
+		width: 5px;
+		height: 103px;
+		left: 104px;
+		top: 683px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Graphic_Designer_Working_field {
+		opacity: 0.85;
+		left: 121px;
+		top: 292px;
+		position: absolute;
+		overflow: visible;
+		width: 579px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(228,228,228,1);
+	}
+	#Video_Editor_As_I_love_to_trav {
+		opacity: 0.45;
+		left: 121px;
+		top: 491px;
+		position: absolute;
+		overflow: visible;
+		width: 602px;
+		white-space: nowrap;
+		transition: all 0.5s ease-in-out;
+		--web-animation: fadein 0.5s ease-in-out;
+		--web-action-type: page;
+		--web-action-target: web2_video_editor.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(228,228,228,1);
+	}
+	#Developer_Graduated_from_BAUST {
+		opacity: 0.45;
+		left: 121px;
+		top: 687px;
+		position: absolute;
+		overflow: visible;
+		width: 737px;
+		white-space: nowrap;
+		transition: all 0.5s ease-in-out;
+		--web-animation: fadein 0.5s ease-in-out;
+		--web-action-type: page;
+		--web-action-target: web2_developer.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(228,228,228,1);
+	}
+	#_ {
+		left: 121px;
+		top: 719px;
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(228,228,228,1);
+	}
+	#facebook {
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 121.467px;
+		top: 362.807px;
+		overflow: visible;
+	}
+	#Path_2 {
+		fill: rgba(66,103,178,1);
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#F {
+		opacity: 0.95;
+		left: 45.533px;
+		top: 6.193px;
+		position: absolute;
+		overflow: visible;
+		width: 12px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(228,228,228,1);
+	}
+	#youtube {
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 121.467px;
+		top: 560.645px;
+		overflow: visible;
+	}
+	#Path_3 {
+		opacity: 0.3;
+		fill: rgba(255,0,0,1);
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Polygon_1 {
+		opacity: 0.3;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_1 {
+		overflow: visible;
+		position: absolute;
+		width: 23px;
+		height: 15px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,39.5327,8.3549) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#whats_app {
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 121.467px;
+		top: 754.873px;
+		overflow: visible;
+	}
+	#Path_4 {
+		opacity: 0.3;
+		fill: rgba(37,211,102,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 101.347px;
+		height: 32.34px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#whatsapp_PNG95177 {
+		opacity: 0.3;
+		position: absolute;
+		width: 27px;
+		height: 27px;
+		left: 37.533px;
+		top: 2.127px;
+		overflow: visible;
+	}
+	#graphic {
+		position: absolute;
+		width: 406px;
+		height: 450px;
+		left: 892px;
+		top: 188px;
+		overflow: visible;
+	}
+	#Ellipse_1 {
+		opacity: 0.5;
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-dasharray: 2 10;
+		stroke-dashoffset: 0;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 406px;
+		height: 407px;
+		left: 0px;
+		top: 43px;
+	}
+	#Ellipse_2 {
+		opacity: 0.5;
+		fill: transparent;
+		stroke: rgba(23,129,138,1);
+		stroke-width: 23px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-dasharray: 3 2;
+		stroke-dashoffset: 0;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 370px;
+		left: 18px;
+		top: 62px;
+	}
+	#Ellipse_3 {
+		fill: transparent;
+		stroke: rgba(22,79,87,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 312px;
+		height: 312px;
+		left: 47px;
+		top: 91px;
+	}
+	#Ellipse_5 {
+		fill: transparent;
+		stroke: rgba(22,79,87,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 312px;
+		height: 312px;
+		left: 47px;
+		top: 91px;
+	}
+	#Ellipse_4 {
+		opacity: 0.5;
+		filter: blur(50px);
+		fill: rgba(255,255,255,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 289px;
+		height: 289px;
+		left: 61px;
+		top: 105px;
+	}
+	#ID60334944_2366594050070693_72 {
+		position: absolute;
+		width: 242px;
+		height: 240px;
+		left: 82px;
+		top: 127px;
+		overflow: visible;
+	}
+	#Ellipse_6 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(1,1,1,1);
+		stroke-width: 20px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_6 {
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		height: 126px;
+		left: 90px;
+		top: 0px;
+	}
+	#Ellipse_7 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(1,1,1,1);
+		stroke-width: 20px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_7 {
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		height: 82px;
+		left: 61px;
+		top: 362px;
+	}
+	#Ellipse_8 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(1,1,1,1);
+		stroke-width: 20px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_8 {
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		height: 82px;
+		left: 277px;
+		top: 362px;
+	}
+	#LRM_EXPORT_161850676171308_201 {
+		position: absolute;
+		width: 53px;
+		height: 53px;
+		left: 75px;
+		top: 376px;
+		overflow: visible;
+	}
+	#ID60334944_2366594050070693_72_bh {
+		position: absolute;
+		width: 102px;
+		height: 101px;
+		left: 102px;
+		top: 13px;
+		overflow: visible;
+	}
+	#NoPath {
+		opacity: 0.97;
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 292px;
+		top: 377px;
+		overflow: visible;
+	} 
+}
